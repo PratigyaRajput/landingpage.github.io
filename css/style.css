@@ -89,7 +89,7 @@ header span {
     transition: 0.3s ease-out;
 }
 /* banner css starts */
-.banner-wrapper{
+.banner-wrapper {
     background-image: url(../images/banner/the-background-gb651fb6d8_1280.png);
     background-position: center center;
     background-size: cover;
