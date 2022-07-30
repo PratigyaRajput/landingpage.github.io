@@ -96,6 +96,7 @@ header span {
 }
 .banner-img {
     border-radius: 30% 70% 70% 30% / 30% 29% 71% 70%;
+    width: 100%;
 }
 .banner-wrapper h1{
     font-size: 60px;
@@ -147,6 +148,9 @@ header span {
     flex: 0 0 auto;
     width: 50%;
     padding: 20px 10px;
+}
+.about-img img {
+    width: 100%;
 }
 .about-wrapper .about-clinic:nth-child(1),
 .about-wrapper .about-clinic:nth-child(2){
